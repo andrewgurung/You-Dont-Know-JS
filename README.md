@@ -42,7 +42,7 @@ If you like this content and would like to contact me regarding conducting train
 
 ## Online Video Training
 
-I also have some JS training material available in on-demand video format. I teach courses through [Frontend Masters](https://FrontendMasters.com), like my [Advanced JS](https://frontendmasters.com/courses/advanced-javascript/) workshop (more courses coming soon!).
+I also have some JS training material available in on-demand video format. I teach courses through [Frontend Masters](https://FrontendMasters.com), like my [Advanced JS](https://frontendmasters.com/courses/advanced-javascript/), [Functional-Light JavaScript](https://frontendmasters.com/courses/functional-javascript-v2/) workshop (more courses coming soon!).
 
 That same course is also [available through Pluralsight](http://www.pluralsight.com/courses/advanced-javascript).
 
